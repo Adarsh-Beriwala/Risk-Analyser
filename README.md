@@ -151,10 +151,6 @@ AI-Insight-Pro/
 - Custom alerting and notifications
 - Integration with monitoring tools
 
-## 🤝 Team
-
-- **Organization**: AIPlaneTech India
-- **Repository**: AIPlaneTechIndia/Team-A
 
 ## 🛣️ Roadmap
 
@@ -166,14 +162,9 @@ AI-Insight-Pro/
 - [ ] API marketplace integration
 
 
-## 📄 License
 
-This project is proprietary software developed by AIPlaneTech India.
 
 ---
 
-**Last Updated**: August 17, 2025  
-**Version**: 1.0.0  
-**Maintained by**: TEAM -A AIPlaneTech India
 
 ⭐ **AI-Insight-Pro** - Transforming Data Analytics with Artificial Intelligence
